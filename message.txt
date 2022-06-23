@@ -1,0 +1,2 @@
+Your voting key is ${VOTING_KEY}.
+KEEP THIS KEY PRIVATE
